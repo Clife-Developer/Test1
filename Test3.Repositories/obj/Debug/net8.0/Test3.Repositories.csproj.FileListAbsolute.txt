@@ -1,0 +1,15 @@
+C:\Projects\Test3.WebService\Test3.Repositories\bin\Debug\net8.0\Test3.Repositories.deps.json
+C:\Projects\Test3.WebService\Test3.Repositories\bin\Debug\net8.0\Test3.Repositories.dll
+C:\Projects\Test3.WebService\Test3.Repositories\bin\Debug\net8.0\Test3.Repositories.pdb
+C:\Projects\Test3.WebService\Test3.Repositories\bin\Debug\net8.0\Test3.Data.dll
+C:\Projects\Test3.WebService\Test3.Repositories\bin\Debug\net8.0\Test3.Data.pdb
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.csproj.AssemblyReference.cache
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.AssemblyInfoInputs.cache
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.AssemblyInfo.cs
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Re.7DB89BC2.Up2Date
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.dll
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\refint\Test3.Repositories.dll
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\Test3.Repositories.pdb
+C:\Projects\Test3.WebService\Test3.Repositories\obj\Debug\net8.0\ref\Test3.Repositories.dll

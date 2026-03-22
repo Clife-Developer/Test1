@@ -1,0 +1,14 @@
+C:\Projects\Test3.WebService\Test3.Data\bin\Debug\net8.0\Test3.Data.deps.json
+C:\Projects\Test3.WebService\Test3.Data\bin\Debug\net8.0\Test3.Data.runtimeconfig.json
+C:\Projects\Test3.WebService\Test3.Data\bin\Debug\net8.0\Test3.Data.dll
+C:\Projects\Test3.WebService\Test3.Data\bin\Debug\net8.0\Test3.Data.pdb
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.csproj.AssemblyReference.cache
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.AssemblyInfoInputs.cache
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.AssemblyInfo.cs
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.dll
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\refint\Test3.Data.dll
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.pdb
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\Test3.Data.genruntimeconfig.cache
+C:\Projects\Test3.WebService\Test3.Data\obj\Debug\net8.0\ref\Test3.Data.dll
